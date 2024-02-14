@@ -1,0 +1,71 @@
+{
+"status": "ok",
+"totalResults": 31,
+"articles": [
+{
+"source": {
+"id": null,
+"name": "NBC Southern California"
+},
+"author": "Helen Jeong",
+"title": "JPL plans to lay off hundreds of employees due to lack of funding - NBC Southern California",
+"description": "NASA’s Jet Propulsion Laboratory is poised to lay off 530 employees along with 40 contractors as the federally funded research and development center has yet to secure funding for the 2024 fiscal year, according to an internal memo. “While we still do not hav…",
+"url": "http://www.nbclosangeles.com/news/local/jpl-plans-to-lay-off-hundreds-of-employees-due-to-lack-of-funding/3332447/",
+"urlToImage": "https://media.nbclosangeles.com/2024/02/GettyImages-925624260-1.jpg?quality=85&strip=all&resize=1200%2C675",
+"publishedAt": "2024-02-07T03:32:12Z",
+"content": "NASAs Jet Propulsion Laboratory is poised to lay off 530 employees along with 40 contractors as the federally funded research and development center has yet to secure funding for the 2024 fiscal year… [+1147 chars]"
+},
+{
+"source": {
+"id": "the-washington-post",
+"name": "The Washington Post"
+},
+"author": "Abigail Hauslohner, Marianna Sotomayor, Liz Goodwin",
+"title": "House GOP fails to pass Israel package as congressional impasse continues - The Washington Post",
+"description": "The vote left uncertain the path ahead for funding several security priorities. A Senate bill has been called “dead on arrival” if it reaches the House.",
+"url": "https://www.washingtonpost.com/national-security/2024/02/06/house-israel-aid-bill-fails/",
+"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CCL7AGLAFBDXJJ46B7LSBPF2QE.JPG&w=1440",
+"publishedAt": "2024-02-07T03:20:00Z",
+"content": "The Republican-led House on Tuesday failed to pass a bill that sought to provide billions of dollars in military aid to Israel, extending an impasse over how to address some of the United States top … [+8973 chars]"
+},
+{
+"source": {
+"id": "the-hill",
+"name": "The Hill"
+},
+"author": "Filip Timotija",
+"title": "CNN anchor pushes back on GOP lawmaker regarding president’s power to shut border: ‘You are just wrong’ - The Hill",
+"description": "CNN anchor Brianna Keilar pushed back on GOP Rep. Josh Brecheen’s (R-Okla.) assertion about President Biden’s abilities to shut down the southern border, telling the lawmaker, “You are just wrong.”  Keilar asked Brecheen to voice his concerns about the bipart…",
+"url": "https://thehill.com/homenews/house/4452451-cnn-anchor-pushes-back-on-gop-rep-over-presidents-power-to-shut-border-you-are-just-wrong/",
+"urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/04/25865_001_1406_sv1-e1707275632285.jpg?w=1280",
+"publishedAt": "2024-02-07T03:14:00Z",
+"content": "Skip to content CNN anchor Brianna Keilar pushed back on GOP Rep. Josh Brecheen’s (R-Okla.) assertion about President Biden’s abilities to shut down the southern border, telling the lawmaker, “You a… [+2304 chars]"
+},
+{
+"source": {
+"id": "cbs-news",
+"name": "CBS News"
+},
+"author": "Gina Martinez",
+"title": "Pod of orcas trapped by thick sea ice off northern Japan, drone footage shows - CBS News",
+"description": "Drone footage from Tuesday morning showed a pod of at least 10 killer whales surrounded by drift ice off Hokkaido, Japan.",
+"url": "https://www.cbsnews.com/news/orcas-trapped-drift-ice-hokkaido-japan-drone-footage/",
+"urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/07/b6c6ae89-d145-44f6-9d7c-0f18aa63f8d3/thumbnail/1200x630/df31f40f262ebc253ba1e5bea5a68d97/orcas.png?v=09f617bc45cf30bf4fa8525d3acea178",
+"publishedAt": "2024-02-07T02:33:00Z",
+"content": "A pod of at least 10 orcas are trapped by sea ice off the coast of northern Japan, drone footage from Tuesday morning shows. The video, released by local wildlife organization Wildlife Pro, showed t… [+448 chars]"
+},
+{
+"source": {
+"id": "abc-news",
+"name": "ABC News"
+},
+"author": "John Santucci, Katherine Faulders, Rachel Scott",
+"title": "RNC Chair Ronna McDaniel discussed stepping down with Trump, sources say - ABC News",
+"description": "McDaniel was reelected in January for her fourth term.",
+"url": "https://abcnews.go.com/Politics/rnc-chair-ronna-mcdaniel-discussed-stepping-down-donald-trump-sources/story?id=107009390",
+"urlToImage": "https://i.abcnewsfe.com/a/0d831d22-8d91-44a0-801e-0d8e8127b6a7/ronna-mcdaniel-ap-lv-240206_1707268577043_hpMain_16x9.jpg?w=1600",
+"publishedAt": "2024-02-07T02:10:09Z",
+"content": "Ronna McDaniel, the chair of the Republican National Committee, has discussed with Donald Trump the possibility of resigning from her position after the South Carolina primary, according to multiple … [+1843 chars]"
+}
+]
+}
