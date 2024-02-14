@@ -14,6 +14,7 @@ import {
 
 import Navbar from './components/Navbar';
 import News from './components/News';
+import Footer from './components/Footer';
 
 const App = () => {
   let pageSize = 9;
@@ -39,6 +40,7 @@ const App = () => {
           <Route exact path="/sports" element={<News   key='sports' pageSize={pageSize} apiKey={api_key} country='in' category='sports' setProgress={setProgress} />}/>
           <Route exact path="/technology" element={<News   key='technology' pageSize={pageSize} apiKey={api_key} country='in' category='technology' setProgress={setProgress} />}/>
         </Routes>
+        <Footer />
       </Router>
       </div>
     )
